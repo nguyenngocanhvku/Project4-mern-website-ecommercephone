@@ -1,2 +1,10 @@
-# Project4-mern-website-ecommercephone
-Ecommerce-Phone - MERN website was built with JavaScript, Reactjs, NodeJS, MongoDB programming language.
+# Getting Started with Create React App
+
+In the project directory, you can run:
+Step 1: npm install
+Step 2: cd Project 
+Step 3: npm start
+
+What's in this website ? 
+- 
+
